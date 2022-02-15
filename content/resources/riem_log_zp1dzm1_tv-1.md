@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Figure 2: Top view for the Riemann Surface of the function f(z)=log((z+1)/(z-1))'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-04-complex-variables-with-applications-fall-1999/94e4293fe9d0b93df2b064efe9d44076_riem_log_Zp1dZm1_tv.GIF
+file: /media/courses/18-04-complex-variables-with-applications-fall-1999/94e4293fe9d0b93df2b064efe9d44076_riem_log_Zp1dZm1_tv.GIF
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: riem_log_Zp1dZm1_tv.GIF
 uid: 94e4293f-e9d0-b93d-f2b0-64efe9d44076

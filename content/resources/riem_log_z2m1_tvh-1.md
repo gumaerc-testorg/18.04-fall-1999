@@ -2,12 +2,16 @@
 content_type: resource
 description: 'Figure 2: Top view for the Riemann Surface of the function f(z)=log(z[exp]2-1).
   Picture obtained using the script RiemannSur in the Athena 18.04 MatLab Toolkit.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-04-complex-variables-with-applications-fall-1999/078932bfa889e0ee99068e00cf55be8e_riem_log_Z2m1_tvH.GIF
+file: /media/courses/18-04-complex-variables-with-applications-fall-1999/078932bfa889e0ee99068e00cf55be8e_riem_log_Z2m1_tvH.GIF
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: riem_log_Z2m1_tvH.GIF
 uid: 078932bf-a889-e0ee-9906-8e00cf55be8e
