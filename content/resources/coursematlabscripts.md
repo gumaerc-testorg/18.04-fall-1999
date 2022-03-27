@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: c5c32e7f-a1b5-9d57-425a-fdc26b87de06
 resourcetype: Document
 title: CourseMatLabscripts.pdf
 uid: 18489ea5-c3a6-42f4-0f0e-901a6fe64aa2

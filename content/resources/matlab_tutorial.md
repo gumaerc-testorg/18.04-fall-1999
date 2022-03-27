@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: c5c32e7f-a1b5-9d57-425a-fdc26b87de06
 resourcetype: Document
 title: MatLab_Tutorial.pdf
 uid: 433579a8-787b-458c-b8d4-dc320b350350
