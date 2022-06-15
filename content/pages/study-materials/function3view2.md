@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Study Materials
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Riemann Surfaces: f(z)=log(z2-1) View 2'
 uid: 00c1b489-cd9f-d388-a876-fde06b1f4edd
+video_metadata:
+  youtube_id: null
 ---
 
 (All images created with MATLAB® software)
@@ -16,5 +19,5 @@ Riemann Surface for f(z)=log(z{{< sup "2" >}}\-1). The picture shows only three 
 
 Picture obtained using the script RiemannSur in the Athena 18.04 MATLAB® Toolkit.
 
-![Figure 2: Top view for the Riemann Surface of the function f(z)=log(z2-1) ](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/riem_log_Z2m1_tvH.GIF)  
+{{< resource "078932bf-a889-e0ee-9906-8e00cf55be8e" >}}  
 Figure 2: Top view for the Riemann Surface of the function f(z)=log(z{{< sup "2" >}}\-1)

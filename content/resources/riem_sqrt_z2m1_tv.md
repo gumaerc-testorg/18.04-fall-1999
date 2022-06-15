@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-04-complex-variables-with-applications-fall-1999/ff8e458f3d9889cf7ee70d49f164f036_riem_sqrt_Z2m1_tv.GIF
+file: /courses/18-04-complex-variables-with-applications-fall-1999/ff8e458f3d9889cf7ee70d49f164f036_riem_sqrt_Z2m1_tv.GIF
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -16,4 +16,6 @@ parent_uid: 33a665e8-7180-b033-3d75-933e3b2213ce
 resourcetype: Image
 title: riem_sqrt_Z2m1_tv.GIF
 uid: ff8e458f-3d98-89cf-7ee7-0d49f164f036
+video_metadata:
+  youtube_id: null
 ---

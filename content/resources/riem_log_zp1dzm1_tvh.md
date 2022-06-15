@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-04-complex-variables-with-applications-fall-1999/8758fe9d144aa92a6dc44b07ae336c3c_riem_log_Zp1dZm1_tvH.GIF
+file: /courses/18-04-complex-variables-with-applications-fall-1999/8758fe9d144aa92a6dc44b07ae336c3c_riem_log_Zp1dZm1_tvH.GIF
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -16,4 +16,6 @@ parent_uid: 33a665e8-7180-b033-3d75-933e3b2213ce
 resourcetype: Image
 title: riem_log_Zp1dZm1_tvH.GIF
 uid: 8758fe9d-144a-a92a-6dc4-4b07ae336c3c
+video_metadata:
+  youtube_id: null
 ---

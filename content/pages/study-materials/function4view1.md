@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Study Materials
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Riemann Surfaces: f(z)=log(1-z1/2) View 1'
 uid: 756fad96-a8b6-cb78-2c0f-1b8a186d2e8e
+video_metadata:
+  youtube_id: null
 ---
 
 (All images created with MATLAB® software)
@@ -17,5 +20,5 @@ Then we join them along the corresponding lips of the branch cuts on x > 1 (mark
 
 Picture obtained using the script RiemannSur in the Athena 18.04 MATLAB® Toolkit.
 
-![Figure 1: Riemann Surface for the function f(z)=log(1-z1/2)](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/riem_log_1mSqrt_Z_aH.GIF)  
+{{< resource "dae181d2-507e-18ae-dfad-732e82a616a2" >}}  
 Figure 1: Riemann Surface for the function f(z)=log(1-z{{< sup "1/2" >}})

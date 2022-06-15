@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-04-complex-variables-with-applications-fall-1999/f518791cce2e5f16bdc28021a61d4642_ProblemSet_5.pdf
+file: /courses/18-04-complex-variables-with-applications-fall-1999/f518791cce2e5f16bdc28021a61d4642_ProblemSet_5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -12,4 +12,6 @@ parent_uid: 09829c85-480a-a14e-8d10-21584166e422
 resourcetype: Document
 title: ProblemSet_5.pdf
 uid: f518791c-ce2e-5f16-bdc2-8021a61d4642
+video_metadata:
+  youtube_id: null
 ---

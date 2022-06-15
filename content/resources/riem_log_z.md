@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Figure 1: Riemann Surface: The Logarithm'
-file: /media/courses/18-04-complex-variables-with-applications-fall-1999/5a595dbf2ce8937c29ed01a886da7aeb_riem_log_Z.GIF
+file: /courses/18-04-complex-variables-with-applications-fall-1999/5a595dbf2ce8937c29ed01a886da7aeb_riem_log_Z.GIF
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -15,4 +15,8 @@ parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 resourcetype: Image
 title: riem_log_Z.GIF
 uid: 5a595dbf-2ce8-937c-29ed-01a886da7aeb
+video_metadata:
+  youtube_id: null
 ---
+Figure 1: Riemann Surface: The Logarithm
+

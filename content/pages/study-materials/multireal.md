@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Study Materials
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Multiple Valued Functions: Real'
 uid: ddec2f32-a466-931f-457a-1053e9957638
+video_metadata:
+  youtube_id: null
 ---
 
 (All images created with MATLAB® software)
@@ -18,5 +21,5 @@ Real part of the cubic root function on the complex plane. Notice how the three 
 
 Picture obtained using the script PlotCube in the Athena 18.04 MATLAB® Toolkit.
 
-![Figure 1: Real part of the cube root on the complex plane](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/ReCubeRootH.GIF)  
+{{< resource "7d006af3-ad2d-611b-4ee7-1b641d317dbb" >}}  
 Figure 1: Real part of the cube root on the complex plane

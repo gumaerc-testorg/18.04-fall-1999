@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Study Materials
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Riemann Surfaces: f(z)=(z2-1)1/2 View 3'
 uid: 56cc172a-4ec6-bef5-a8c6-755e16057e5e
+video_metadata:
+  youtube_id: null
 ---
 
 (All images created with MATLAB® software)
@@ -15,5 +18,5 @@ Riemann Surface for (z{{< sup "2" >}}\-1){{< sup "1/2" >}}. This surface is an o
 
 Picture obtained using the script RiemannSur in the Athena 18.04 MATLAB® Toolkit.
 
-![Figure 3: Top view of the Riemann Surface for the function f(z)=(z2-1)1/2 ](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/riem_sqrt_Z2m1_tvH.GIF)  
+{{< resource "41452dc5-8338-3717-1cae-0ca94593d742" >}}  
 Figure 3: Top view of the Riemann Surface for the function f(z)=(z{{< sup "2" >}}\-1){{< sup "1/2" >}}
