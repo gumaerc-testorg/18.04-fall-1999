@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Figure 3: Top view of the Riemann Surface for the function f(z)=(z[exp]2-1)[exp]1/2. Picture obtained using the script RiemannSur in the Athena 18.04 MatLab Toolkit.
-

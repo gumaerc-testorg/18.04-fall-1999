@@ -5,6 +5,7 @@ file: /courses/18-04-complex-variables-with-applications-fall-1999/18489ea5c3a64
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection

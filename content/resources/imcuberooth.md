@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Image of imaginary part of the cube root on the complex plane. Image created with MATLAB? software. (Courtesy of Prof. R. Rosales.) Picture obtained using the script PlotCube in the Athena 18.04 MatLab Toolkit.
-
