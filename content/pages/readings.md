@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: This section provides the readings for each lecture session and comments
+  on the various sections of the book.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 33a665e8-7180-b033-3d75-933e3b2213ce
+video_metadata:
+  youtube_id: null
 ---
 
 [Comments on the Textbook](#comments)
