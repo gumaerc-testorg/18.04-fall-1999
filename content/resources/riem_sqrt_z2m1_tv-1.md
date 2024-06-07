@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Figure 3: Top view of the Riemann Surface for the function f(z)=(z[exp]2-1)[exp]1/2'
 file: /courses/18-04-complex-variables-with-applications-fall-1999/641bff939e27606d05333e03493a495b_riem_sqrt_Z2m1_tv.GIF
+file_size: 5910
 file_type: image/gif
 image_metadata:
   caption: ''
