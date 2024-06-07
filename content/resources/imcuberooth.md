@@ -4,6 +4,7 @@ description: Image of imaginary part of the cube root on the complex plane. Imag
   created with MATLAB? software. (Courtesy of Prof. R. Rosales.) Picture obtained
   using the script PlotCube in the Athena 18.04 MatLab Toolkit.
 file: /courses/18-04-complex-variables-with-applications-fall-1999/2c03b336a047c3c30c99a67db10d13bd_ImCubeRootH.GIF
+file_size: 14173
 file_type: image/gif
 image_metadata:
   caption: ''

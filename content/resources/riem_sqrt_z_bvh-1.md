@@ -3,6 +3,7 @@ content_type: resource
 description: One view of a square root Riemann Surface. Picture obtained using the
   script RiemannSur in the Athena 18.04 MatLab Toolkit.
 file: /courses/18-04-complex-variables-with-applications-fall-1999/3b660595f9308f895aa05c923f85a3e8_riem_sqrt_Z_bvH.GIF
+file_size: 10569
 file_type: image/gif
 image_metadata:
   caption: ''

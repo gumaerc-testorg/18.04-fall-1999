@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-04-complex-variables-with-applications-fall-1999/1db3f5cdd4e3ec3c746ad4afbfaef37e_ProblemSet_3.pdf
+file_size: 43908
 file_type: application/pdf
 learning_resource_types:
 - Assignments
