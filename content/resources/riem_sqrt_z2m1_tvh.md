@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-04-complex-variables-with-applications-fall-1999/4a7f66d3623d6492690b3087f68c8cba_riem_sqrt_Z2m1_tvH.GIF
+file_size: 14281
 file_type: image/gif
 image_metadata:
   caption: ''
