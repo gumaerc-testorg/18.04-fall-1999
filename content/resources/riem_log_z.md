@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Figure 1: Riemann Surface: The Logarithm'
-file: /courses/18-04-complex-variables-with-applications-fall-1999/5a595dbf2ce8937c29ed01a886da7aeb_riem_log_Z.GIF
+file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-fall-1999/5a595dbf2ce8937c29ed01a886da7aeb_riem_log_Z.GIF
 file_size: 3910
 file_type: image/gif
 image_metadata:
