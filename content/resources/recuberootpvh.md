@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Figure 1: Real part of the Principal Vale of the cube root. Picture
   obtained using the script PlotCube in the Athena 18.04 MatLab Toolkit.'
-file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-fall-1999/38241b4f51d4615df94d343208a83f9f_ReCubeRootPVH.GIF
+file: /courses/18-04-complex-variables-with-applications-fall-1999/38241b4f51d4615df94d343208a83f9f_ReCubeRootPVH.GIF
 file_size: 12505
 file_type: image/gif
 image_metadata:

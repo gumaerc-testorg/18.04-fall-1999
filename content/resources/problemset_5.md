@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-fall-1999/f518791cce2e5f16bdc28021a61d4642_ProblemSet_5.pdf
+file: /courses/18-04-complex-variables-with-applications-fall-1999/f518791cce2e5f16bdc28021a61d4642_ProblemSet_5.pdf
 file_size: 38279
 file_type: application/pdf
 learning_resource_types:

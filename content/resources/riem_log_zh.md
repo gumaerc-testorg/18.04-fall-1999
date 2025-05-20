@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Figure 1: Riemann Surface: The Logarithm. Picture obtained using the
   script RiemannSur in the Athena 18.04 MatLab Toolkit.'
-file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-fall-1999/a3c586c479f65dbc7072cb1c6ec66db9_riem_log_ZH.GIF
+file: /courses/18-04-complex-variables-with-applications-fall-1999/a3c586c479f65dbc7072cb1c6ec66db9_riem_log_ZH.GIF
 file_size: 8202
 file_type: image/gif
 image_metadata:

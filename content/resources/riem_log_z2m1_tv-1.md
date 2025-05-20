@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Figure 2: Top view for the Riemann Surface of the function f(z)=log(z[exp]2-1)'
-file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-fall-1999/5ec7d3deb45260052e9b3a117d9051d6_riem_log_Z2m1_tv.GIF
+file: /courses/18-04-complex-variables-with-applications-fall-1999/5ec7d3deb45260052e9b3a117d9051d6_riem_log_Z2m1_tv.GIF
 file_size: 5009
 file_type: image/gif
 image_metadata:

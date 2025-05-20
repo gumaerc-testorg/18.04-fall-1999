@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-fall-1999/a569e09a8777649d6bb6f49c272101fb_Exam_2.pdf
+file: /courses/18-04-complex-variables-with-applications-fall-1999/a569e09a8777649d6bb6f49c272101fb_Exam_2.pdf
 file_size: 162354
 file_type: application/pdf
 learning_resource_types:
