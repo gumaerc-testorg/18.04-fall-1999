@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Figure 1: Real part of the Principal Value of the cube root.'
-file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-fall-1999/5c7cca7de77f770a2575801445f44045_ReCubeRootPV.GIF
+file: /courses/18-04-complex-variables-with-applications-fall-1999/5c7cca7de77f770a2575801445f44045_ReCubeRootPV.GIF
 file_size: 4846
 file_type: image/gif
 image_metadata:
