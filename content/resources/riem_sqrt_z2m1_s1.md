@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-04-complex-variables-with-applications-fall-1999/33c919ba711661f54ce38d705f96800b_riem_sqrt_Z2m1_s1.GIF
+file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-fall-1999/33c919ba711661f54ce38d705f96800b_riem_sqrt_Z2m1_s1.GIF
 file_size: 5136
 file_type: image/gif
 image_metadata:

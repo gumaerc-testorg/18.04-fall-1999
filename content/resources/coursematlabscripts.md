@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-04-complex-variables-with-applications-fall-1999/18489ea5c3a642f40f0e901a6fe64aa2_CourseMatLabscripts.pdf
+file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-fall-1999/18489ea5c3a642f40f0e901a6fe64aa2_CourseMatLabscripts.pdf
 file_size: 50784
 file_type: application/pdf
 learning_resource_types:

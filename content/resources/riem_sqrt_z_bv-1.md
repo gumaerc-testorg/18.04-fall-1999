@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Figure 1: One view of a square root Riemann Surface'
-file: /courses/18-04-complex-variables-with-applications-fall-1999/f37f8ce9c0f811fdaa76587611fa09a4_riem_sqrt_Z_bv.GIF
+file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-fall-1999/f37f8ce9c0f811fdaa76587611fa09a4_riem_sqrt_Z_bv.GIF
 file_size: 4638
 file_type: image/gif
 image_metadata:
