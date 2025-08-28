@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Figure 1: Riemann Surface for the function f(z)=log(1-z[exp]1/2). Picture
   obtained using the script RiemannSur in the Athena 18.04 MatLab Toolkit.'
-file: /courses/18-04-complex-variables-with-applications-fall-1999/dae181d2507e18aedfad732e82a616a2_riem_log_1mSqrt_Z_aH.GIF
+file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-fall-1999/dae181d2507e18aedfad732e82a616a2_riem_log_1mSqrt_Z_aH.GIF
 file_size: 10396
 file_type: image/gif
 image_metadata:
