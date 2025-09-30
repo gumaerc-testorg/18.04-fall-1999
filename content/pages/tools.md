@@ -22,7 +22,7 @@ The scripts are an integral part of the course. The students are expected to use
 
 Further information can be found at:
 
-"[A Practical Introduction to MATLAB®](http://www.math.mtu.edu/~msgocken/intro/intro.html)"
+"{{% resource_link "55eb1157-1159-4d56-b614-b1b1ccb62e34" "A Practical Introduction to MATLAB®" %}}"
 
 > It is a good starting. The section on "Simple calculations and graphs" is particularly appropriate for help in getting started.
 
